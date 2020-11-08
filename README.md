@@ -4,6 +4,8 @@ Aplicação básica desenvolvida em Dart (Flutter) para cálculo do IMC, como pa
 
 A aplicação é leve, funcional, construída com widgets básicos, porém os formulários contam com validadores.
 
+# ![Tela da Aplicação](https://github.com/charlesrobson/calculadora_de_imc_Mobile_Flutter/blob/master/photo_2020-11-07_23-41-21.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
